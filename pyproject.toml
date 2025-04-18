@@ -1,0 +1,11 @@
+[project]
+name = "agrotest"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "click>=8.1.8",
+    "faust-cchardet>=2.1.19",
+    "loguru>=0.7.3",
+]
